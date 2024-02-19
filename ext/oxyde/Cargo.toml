@@ -1,0 +1,12 @@
+[package]
+name = "oxyde"
+version = "0.1.0"
+edition = "2021"
+authors = ["Howard Wilson <howard@watsonbox.net>"]
+publish = false
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+magnus = { version = "0.6" }
