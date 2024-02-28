@@ -36,6 +36,10 @@ Look at `target/criterion/proportional_sum/report` to get a report like the foll
 
 <img src="assets/report.png"/>
 
+## Resources
+
+- https://bundler.io/blog/2023/01/31/rust-gem-skeleton.html
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/watsonbox/oxyde.
